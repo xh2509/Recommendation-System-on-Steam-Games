@@ -17,14 +17,11 @@ Url to all data used and generated: https://drive.google.com/drive/folders/1Sba1
 . 
 ├── data.py  
 ├── model.py
-├── model.ipynb  
-├── pro_airflow.py 
+├── model.ipynb
 ├── interface.html
 ├── interface.js
 ├── game_scorecard_lda.csv
 ├── steamspy_data.csv
-├── steamspy_onehot.csv
-├── steamspy_withlda.csv
 ├── webdata.csv
 ├── Final Report.pdf
 └── README.md
